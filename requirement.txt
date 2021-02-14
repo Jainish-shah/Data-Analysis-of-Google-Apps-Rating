@@ -1,4 +1,4 @@
-Data Analysis requires Python 3.8 or above.
+Data Analysis requires Python 3.6 or above.
 numpy==1.17.4
 pandas==1.2.0
 matplotlib==3.1.2
